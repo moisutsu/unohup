@@ -13,3 +13,4 @@ categories = [""]
 keywords = [""]
 
 [dependencies]
+clap = "3.0.0-beta.2"
