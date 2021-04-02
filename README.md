@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-cargo install --path .
+cargo install unohup
 ```
 
 ## Usage
