@@ -3,14 +3,14 @@ name = "unohup"
 version = "0.1.0"
 authors = ["moisutsu <moisutsu@gmail.com>"]
 edition = "2018"
-description = ""
-repository = ""
+description = "A useful wrapper library for nohup"
+repository = "https://github.com/moisutsu/unohup"
 license = "MIT"
 readme = "README.md"
 # see https://crates.io/category_slugs
-categories = [""]
+categories = ["command-line-utilities"]
 # see https://crates.io/keywords
-keywords = [""]
+keywords = ["cli"]
 
 [dependencies]
 clap = "3.0.0-beta.2"
